@@ -1,27 +1,27 @@
 correlation score,comment,team_name,members
-0.0000,default,bingsboys,MattD18|wario123
-0.0000,default,nlp-johnny-keith,johnnykwwang|keithyuck
-0.0000,default,jbit,irenetung|jillianjmb
-0.0000,default,neural-linguistic-processing,dni138|wumpusman
-0.0000,default,have-to-land,ivy-yue|shakingkelly
-0.0000,default,nlp19,rh443453518|ys838
-0.0000,default,pj-party,Joloh13|pkale
-0.0000,default,dot-product,marikacusick|trallen91
-0.0000,default,charles-richard-1,ckuang|richardqhill
-0.0000,default,1,PeterXUYAOHAI|lifei96
-0.0000,default,statistically_proper,ShantanuPhadke|Vchabs
-0.0000,default,salty_fish,wrymax|ziyuqiu
-0.0000,default,omer-devon,dwb264|omer921
-0.0000,default,whatever,CeliaYao329|YeatsMar
-0.0000,default,team,StevenWooooo|advaitapatel
-0.0000,default,nlp-r-s,ryanfarr01|shainedl
-0.0000,default,weak-derivatives,anthonytec2|bzelditch
-0.0000,default,unsupervised-learners,joe83830|ren-e1011
-0.0000,default,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu
-0.0000,default,we-ve-kissed,SteffenBerlin|et435
-0.0000,default,queen,ckuang
-0.0000,default,nonlinear-programming,Sunnah|migunasekera
-0.0000,default,nlp-y-j,Jingjing-Bai-WCM|skybluewing
-0.0000,default,lang,anastasisbele|ccweaver1|cyzanfar
-0.0000,default,despacitos,dhachuel|lsharir
-0.0000,default,nlp-yong-kun,Rogerwlk|acneyouth1996
+0.1566,N/A,dot-product,marikacusick|trallen91
+0.0282,N/A,jbit,irenetung|jillianjmb
+0.0000,Err for main2/default,bingsboys,MattD18|wario123
+0.0000,Err for main2/default,nlp-johnny-keith,johnnykwwang|keithyuck
+0.0000,Err for main2/default,neural-linguistic-processing,dni138|wumpusman
+0.0000,Err for main2/default,have-to-land,ivy-yue|shakingkelly
+0.0000,Err for main2/default,nlp19,rh443453518|ys838
+0.0000,Err for main2/default,pj-party,Joloh13|pkale
+nan,N/A,charles-richard-1,ckuang|richardqhill
+0.0000,Err for main2/default,1,PeterXUYAOHAI|lifei96
+0.0000,Err for main2/default,statistically_proper,ShantanuPhadke|Vchabs
+0.0000,Err for main2/default,salty_fish,wrymax|ziyuqiu
+0.0000,Err for main2/default,omer-devon,dwb264|omer921
+0.0000,Err for main2/default,whatever,CeliaYao329|YeatsMar
+0.0000,Err for main2/default,team,StevenWooooo|advaitapatel
+0.0000,Err for main2/default,nlp-r-s,ryanfarr01|shainedl
+0.0000,Err for main2/default,weak-derivatives,anthonytec2|bzelditch
+0.0000,Err for main2/default,unsupervised-learners,joe83830|ren-e1011
+0.0000,Err for main2/default,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu
+0.0000,Err for main2/default,we-ve-kissed,SteffenBerlin|et435
+0.0000,Err for main2/default,queen,ckuang
+0.0000,Err for main2/default,nonlinear-programming,Sunnah|migunasekera
+0.0000,Err for main2/default,nlp-y-j,Jingjing-Bai-WCM|skybluewing
+0.0000,Err for main2/default,lang,anastasisbele|ccweaver1|cyzanfar
+0.0000,Err for main2/default,despacitos,dhachuel|lsharir
+0.0000,Err for main2/default,nlp-yong-kun,Rogerwlk|acneyouth1996
