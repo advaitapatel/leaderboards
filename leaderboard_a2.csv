@@ -1,9 +1,8 @@
 correlation score,comment,team_name,members
-0.1566,N/A,dot-product,marikacusick|trallen91
+0.1340,N/A,dot-product,marikacusick|trallen91
 0.0282,N/A,jbit,irenetung|jillianjmb
 0.0122,N/A,have-to-land,ivy-yue|shakingkelly
 0.0000,predictions file not submitted,bingsboys,MattD18|wario123
-0.0000,predictions file not submitted,nlp-johnny-keith,johnnykwwang|keithyuck
 0.0000,predictions file not submitted,neural-linguistic-processing,dni138|wumpusman
 0.0000,predictions file not submitted,nlp19,rh443453518|ys838
 0.0000,predictions file not submitted,pj-party,Joloh13|pkale
@@ -25,3 +24,4 @@ nan,N/A,charles-richard-1,ckuang|richardqhill
 0.0000,predictions file not submitted,lang,anastasisbele|ccweaver1|cyzanfar
 0.0000,predictions file not submitted,despacitos,dhachuel|lsharir
 0.0000,predictions file not submitted,nlp-yong-kun,Rogerwlk|acneyouth1996
+-0.0109,N/A,nlp-johnny-keith,johnnykwwang|keithyuck
