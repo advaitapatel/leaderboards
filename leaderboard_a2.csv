@@ -1,18 +1,19 @@
 correlation score,comment,team_name,members
-0.2576,N/A,nlp-johnny-keith,johnnykwwang|keithyuck
+0.2668,N/A,nlp-johnny-keith,johnnykwwang|keithyuck
 0.1751,N/A,dot-product,marikacusick|trallen91
-0.0282,N/A,jbit,irenetung|jillianjmb
+0.1584,N/A,jbit,irenetung|jillianjmb
+0.0571,N/A,omer-devon,dwb264|omer921
+0.0209,N/A,nlp-y-j,Jingjing-Bai-WCM|skybluewing
+0.0146,N/A,charles-richard-1,ckuang|richardqhill
 0.0122,N/A,have-to-land,ivy-yue|shakingkelly
 0.0000,predictions file not submitted,bingsboys,MattD18|wario123
 0.0000,predictions file not submitted,neural-linguistic-processing,dni138|wumpusman
 0.0000,predictions file not submitted,nlp19,rh443453518|ys838
 0.0000,predictions file not submitted,pj-party,Joloh13|pkale
-nan,N/A,charles-richard-1,ckuang|richardqhill
 0.0000,predictions file not submitted,1,PeterXUYAOHAI|lifei96
 0.0000,predictions file not submitted,statistically_proper,ShantanuPhadke|Vchabs
 0.0000,predictions file not submitted,salty_fish,wrymax|ziyuqiu
-0.0000,predictions file not submitted,omer-devon,dwb264|omer921
-0.0000,predictions file not submitted,whatever,CeliaYao329|YeatsMar
+0.0000,Err for main/default,whatever,CeliaYao329|YeatsMar
 0.0000,predictions file not submitted,team,StevenWooooo|advaitapatel
 0.0000,predictions file not submitted,nlp-r-s,ryanfarr01|shainedl
 0.0000,predictions file not submitted,weak-derivatives,anthonytec2|bzelditch
@@ -21,7 +22,6 @@ nan,N/A,charles-richard-1,ckuang|richardqhill
 0.0000,predictions file not submitted,we-ve-kissed,SteffenBerlin|et435
 0.0000,predictions file not submitted,queen,ckuang
 0.0000,predictions file not submitted,nonlinear-programming,Sunnah|migunasekera
-0.0000,predictions file not submitted,nlp-y-j,Jingjing-Bai-WCM|skybluewing
 0.0000,predictions file not submitted,lang,anastasisbele|ccweaver1|cyzanfar
 0.0000,predictions file not submitted,despacitos,dhachuel|lsharir
 0.0000,predictions file not submitted,nlp-yong-kun,Rogerwlk|acneyouth1996
