@@ -1,19 +1,20 @@
 F1 score,comment,team_name,members
-0.9610,N/A,jbit,irenetung|jillianjmb
-0.9522,N/A,taiwan-numba-1,johnnykwwang|keithyuck
+0.9598,N/A,taiwan-numba-1,johnnykwwang|keithyuck
+0.9536,N/A,statistically_proper,ShantanuPhadke|Vchabs
+0.9520,N/A,whatever,CeliaYao329|YeatsMar
+0.9517,N/A,dot-product,marikacusick|trallen91
 0.9515,N/A,tbd,dwb264
-0.9466,N/A,dot-product,marikacusick|trallen91
+0.9495,N/A,jbit,irenetung|jillianjmb
+0.9417,N/A,1,PeterXUYAOHAI|lifei96
+0.9399,N/A,pj-party,Joloh13|pkale
 0.9332,N/A,queen,SteffenBerlin|ckuang|omer921
 0.9292,N/A,salty_fish,wrymax|ziyuqiu
-0.0336,N/A,statistically_proper,ShantanuPhadke|Vchabs
+0.8955,N/A,campbell-richard,ccweaver1|richardqhill
 0.0336,N/A,despacitos,dhachuel|lsharir
 0.0336,N/A,nonlinear-programming,Sunnah|migunasekera
-0.0336,N/A,pj-party,Joloh13|pkale
 0.0336,N/A,team,StevenWooooo|advaitapatel
-0.0336,N/A,campbell-richard,ccweaver1|richardqhill
 0.0336,N/A,travel-boyz,cyzanfar|et435
 0.0336,N/A,unsupervised-learners,joe83830|ren-e1011
-0.0336,N/A,1,PeterXUYAOHAI|lifei96
 0.0336,N/A,nlp-r-s,ryanfarr01|shainedl
 0.0336,N/A,neural-linguistic-processing,dni138|wumpusman
 0.0336,N/A,lang,anastasisbele|cyzanfar
@@ -22,4 +23,4 @@ F1 score,comment,team_name,members
 0.0336,N/A,bingsboys,MattD18|wario123
 0.0336,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu
 0.0336,N/A,kirinji,CherryBilberry|shawnwang95
--3.1416,Error with correlation scores.,whatever,CeliaYao329|YeatsMar
+0.0336,N/A,nlp19,rh443453518|ys838
