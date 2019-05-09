@@ -1,39 +1,39 @@
 prec.,recall,F1,team_name,members,comment
-1.0000,1.0000,1.0000,gold,,Error with scores
-0.5766,0.1789,0.2731,wumpusman,wumpusman,Error with scores
-0.4207,0.1513,0.2225,Sunnah,Sunnah,Error with scores
-0.0000,0.0000,0.0000,richardqhill,richardqhill,Error with scores
-0.0000,0.0000,0.0000,shainedl,shainedl,Error with scores
-0.0000,0.0000,0.0000,bzelditch,bzelditch,Error with scores
-0.0000,0.0000,0.0000,anthonytec2,anthonytec2,Error with scores
-0.0000,0.0000,0.0000,irenetung,irenetung,Error with scores
-0.0000,0.0000,0.0000,johnnykwwang,johnnykwwang,Error with scores
-0.0000,0.0000,0.0000,lsharir,lsharir,Error with scores
-0.0000,0.0000,0.0000,YeatsMar,YeatsMar,Error with scores
-0.0000,0.0000,0.0000,omer921,omer921,Error with scores
-0.0000,0.0000,0.0000,CeliaYao329,CeliaYao329,Error with scores
-0.0000,0.0000,0.0000,dhachuel,dhachuel,Error with scores
-0.0000,0.0000,0.0000,ren-e1011,ren-e1011,Error with scores
-0.0000,0.0000,0.0000,jillianjmb,jillianjmb,Error with scores
-0.0000,0.0000,0.0000,dni138,dni138,Error with scores
-0.0000,0.0000,0.0000,wrymax,wrymax,Error with scores
-0.0000,0.0000,0.0000,acneyouth1996,acneyouth1996,Error with scores
-0.0000,0.0000,0.0000,dwb264,dwb264,Error with scores
-0.0000,0.0000,0.0000,StevenWooooo,StevenWooooo,Error with scores
-0.0000,0.0000,0.0000,pkale,pkale,Error with scores
-0.0000,0.0000,0.0000,migunasekera,migunasekera,Error with scores
-0.0000,0.0000,0.0000,MattD18,MattD18,Error with scores
-0.0000,0.0000,0.0000,ckuang,ckuang,Error with scores
-0.0000,0.0000,0.0000,ccweaver1,ccweaver1,Error with scores
-0.0000,0.0000,0.0000,et435,et435,Error with scores
-0.0000,0.0000,0.0000,ziyuqiu,ziyuqiu,Error with scores
-0.0000,0.0000,0.0000,SteffenBerlin,SteffenBerlin,Error with scores
-0.0000,0.0000,0.0000,PeterXUYAOHAI,PeterXUYAOHAI,Error with scores
-0.0000,0.0000,0.0000,lifei96,lifei96,Error with scores
-0.0000,0.0000,0.0000,Jingjing-Bai-WCM,Jingjing-Bai-WCM,Error with scores
-0.0000,0.0000,0.0000,Vchabs,Vchabs,Error with scores
-0.0000,0.0000,0.0000,keithyuck,keithyuck,Error with scores
-0.0000,0.0000,0.0000,ys838,ys838,Error with scores
-0.0000,0.0000,0.0000,Joloh13,Joloh13,Error with scores
-0.0000,0.0000,0.0000,marikacusick,marikacusick,Error with scores
-0.0000,0.0000,0.0000,trallen91,trallen91,Error with scores
+1.0000,1.0000,1.0000,gold,,N/A
+0.5766,0.1789,0.2731,wumpusman,wumpusman,N/A
+0.4207,0.1513,0.2225,Sunnah,Sunnah,N/A
+0.0000,0.0000,0.0000,richardqhill,richardqhill,N/A
+0.0000,0.0000,0.0000,shainedl,shainedl,N/A
+0.0000,0.0000,0.0000,bzelditch,bzelditch,N/A
+0.0000,0.0000,0.0000,anthonytec2,anthonytec2,N/A
+0.0000,0.0000,0.0000,irenetung,irenetung,N/A
+0.0000,0.0000,0.0000,johnnykwwang,johnnykwwang,N/A
+0.0000,0.0000,0.0000,lsharir,lsharir,N/A
+0.0000,0.0000,0.0000,YeatsMar,YeatsMar,N/A
+0.0000,0.0000,0.0000,omer921,omer921,N/A
+0.0000,0.0000,0.0000,CeliaYao329,CeliaYao329,N/A
+0.0000,0.0000,0.0000,dhachuel,dhachuel,N/A
+0.0000,0.0000,0.0000,ren-e1011,ren-e1011,N/A
+0.0000,0.0000,0.0000,jillianjmb,jillianjmb,N/A
+0.0000,0.0000,0.0000,dni138,dni138,N/A
+0.0000,0.0000,0.0000,wrymax,wrymax,N/A
+0.0000,0.0000,0.0000,acneyouth1996,acneyouth1996,N/A
+0.0000,0.0000,0.0000,dwb264,dwb264,N/A
+0.0000,0.0000,0.0000,StevenWooooo,StevenWooooo,N/A
+0.0000,0.0000,0.0000,pkale,pkale,N/A
+0.0000,0.0000,0.0000,migunasekera,migunasekera,N/A
+0.0000,0.0000,0.0000,MattD18,MattD18,N/A
+0.0000,0.0000,0.0000,ckuang,ckuang,N/A
+0.0000,0.0000,0.0000,ccweaver1,ccweaver1,N/A
+0.0000,0.0000,0.0000,et435,et435,N/A
+0.0000,0.0000,0.0000,ziyuqiu,ziyuqiu,N/A
+0.0000,0.0000,0.0000,SteffenBerlin,SteffenBerlin,N/A
+0.0000,0.0000,0.0000,PeterXUYAOHAI,PeterXUYAOHAI,N/A
+0.0000,0.0000,0.0000,lifei96,lifei96,N/A
+0.0000,0.0000,0.0000,Jingjing-Bai-WCM,Jingjing-Bai-WCM,N/A
+0.0000,0.0000,0.0000,Vchabs,Vchabs,N/A
+0.0000,0.0000,0.0000,keithyuck,keithyuck,N/A
+0.0000,0.0000,0.0000,ys838,ys838,N/A
+0.0000,0.0000,0.0000,Joloh13,Joloh13,N/A
+0.0000,0.0000,0.0000,marikacusick,marikacusick,N/A
+0.0000,0.0000,0.0000,trallen91,trallen91,N/A
