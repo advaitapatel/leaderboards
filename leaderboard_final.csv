@@ -2,7 +2,7 @@ prec.,recall,F1,team_name,members,comment
 1.0000,1.0000,1.0000,gold,,N/A
 0.7096,0.6188,0.6611,johnnykwwang,johnnykwwang,N/A
 0.7107,0.6137,0.6586,ys838,ys838,DISQUALIFIED
-0.7107,0.6137,0.6586,advaitapatel,advaitapatel,N/A
+0.7107,0.6137,0.6586,advaitapatel,advaitapatel,DISQUALIFIED
 0.7069,0.5774,0.6356,YeatsMar,YeatsMar,N/A
 0.7182,0.5177,0.6017,keithyuck,keithyuck,N/A
 0.5990,0.5307,0.5628,omer921,omer921,N/A
